@@ -1,0 +1,10 @@
+s3.amazonaws.com/angelfern/index.html
+s3.amazonaws.com/deaganfern/index.html
+s3.amazonaws.com/educationate/index.html
+s3.amazonaws.com/fernisbest/index.html
+s3.amazonaws.com/fernisbest/index.html.edgeone.app/stuff/index.html
+s3.amazonaws.com/ghst/index.html
+s3.amazonaws.com/ghstisamazing/g/index.html
+s3.amazonaws.com/lichgames/index.html
+s3.amazonaws.com/lichgames/io-games/index.html
+s3.amazonaws.com/shindoisbest/index.html
