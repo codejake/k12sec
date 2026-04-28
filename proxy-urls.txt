@@ -7,3 +7,5 @@ s3.amazonaws.com/ghstisamazing/g/index.html
 s3.amazonaws.com/lichgames/index.html
 s3.amazonaws.com/lichgames/io-games/index.html
 s3.amazonaws.com/shindoisbest/index.html
+lsrelay-l.s3.amazonaws.com/index.html
+s3.amazonaws.com/lsrelay-a/index.html
