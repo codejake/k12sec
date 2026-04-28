@@ -123,6 +123,7 @@ cafans.b-cdn.net
 caganer.b-cdn.net
 calculas.b-cdn.net
 calculator-70391.b-cdn.net
+captain.fish1.lervs.ro
 cat.b-cdn.net
 catnitro.b-cdn.net
 cattos-tutoring.b-cdn.net
@@ -277,6 +278,7 @@ f7d3d8.b-cdn.net
 fastnet7903.b-cdn.net
 fat.b-cdn.net
 fatboi.b-cdn.net
+feel.lervs.ro
 fembot.b-cdn.net
 fern-is-best.b-cdn.net
 fern.b-cdn.net
@@ -358,7 +360,9 @@ hide.b-cdn.net
 highschool.b-cdn.net
 history-823506822.b-cdn.net
 historyiceage.b-cdn.net
+holy.lervs.ro
 home.b-cdn.net
+homosapeien.lervs.ro
 honk.b-cdn.net
 hotdog.b-cdn.net
 hotelgames.b-cdn.net
@@ -604,6 +608,7 @@ pinterest.b-cdn.net
 pirate.b-cdn.net
 play.b-cdn.net
 playerapi.b-cdn.net
+playernation.lervs.ro
 powerschools.b-cdn.net
 practice.b-cdn.net
 practicemath.b-cdn.net
@@ -612,6 +617,7 @@ primewave9672.b-cdn.net
 pro.b-cdn.net
 projective-website.b-cdn.net
 promolayer-images.b-cdn.net
+prop.lervs.ro
 proxies.b-cdn.net
 proxy.b-cdn.net
 pulseiscrazy.b-cdn.net
@@ -696,8 +702,10 @@ skeepoolts.b-cdn.net
 skide.b-cdn.net
 sky.jul.ro.cdn.b-cdn.net
 slayer.b-cdn.net
+smartbio.lervs.ro
 smashkartsgc.b-cdn.net
 snack-scripts.b-cdn.net
+sneakers-otoole.lervs.ro
 sociology-749.b-cdn.net
 sofia-brown-44.b-cdn.net
 sofia-jackson-70.b-cdn.net
@@ -783,6 +791,7 @@ use-velara.b-cdn.net
 utwadmin.b-cdn.net
 v3ontop.b-cdn.net
 vapwaterlol8.b-cdn.net
+vcsa-yt.lervs.ro
 vcsaofficial.b-cdn.net
 veilmathlearning.b-cdn.net
 velarabyjax.b-cdn.net
@@ -839,12 +848,3 @@ zinglanguages.b-cdn.net
 zinko.b-cdn.net
 zinkos.b-cdn.net
 zuhhleak.b-cdn.net
-captain.fish1.lervs.ro
-feel.lervs.ro
-holy.lervs.ro
-homosapeien.lervs.ro
-playernation.lervs.ro
-prop.lervs.ro
-smartbio.lervs.ro
-sneakers-otoole.lervs.ro
-vcsa-yt.lervs.ro
