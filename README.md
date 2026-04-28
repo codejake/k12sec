@@ -5,4 +5,5 @@ in dark corners that may not be yet present in security vendors' databases.
 
 Use this stuff at your own risk.
 
-I'm starting fresh.
+I'm starting fresh and I'm not sure where this is going yet. I welcome pull 
+requests.
