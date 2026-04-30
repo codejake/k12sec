@@ -9,4 +9,3 @@ I'm starting fresh and I'm not sure where this is going yet. I welcome pull
 requests.
 
 - `*yolo*.txt` files are for going scorched earth. It is not recommended to use them without understanding the implications.
-- 
