@@ -37,3 +37,8 @@ iloveliteratures.s3.amazonaws.com/index.html
 ilovemaths.s3.amazonaws.com/index.html
 lsrelay-extension-production.s3.amazonaws.com/index.html
 macrolo.s3.amazonaws.com/index.html
+storage.googleapis.com/fernisbest/index.html
+s3.amazonaws.com/fernisbest/index.html
+s3.amazonaws.com/fernlinks/index.html
+s3.amazonaws.com/classworks/index.html
+s3.amazonaws.com/bull33/index.html
