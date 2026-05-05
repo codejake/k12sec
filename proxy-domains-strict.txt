@@ -1,2 +1,3 @@
 *.b-cdn.net
 *.bdyoutube.com
+noterplus*.firebaseapp.com
